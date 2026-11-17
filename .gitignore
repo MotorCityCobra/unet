@@ -6,3 +6,5 @@
 
 # Jupyter checkpoint files (also worth ignoring)
 .ipynb_checkpoints/
+
+save_image_folder/
