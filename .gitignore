@@ -1,0 +1,8 @@
+# Model weights
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Jupyter checkpoint files (also worth ignoring)
+.ipynb_checkpoints/
